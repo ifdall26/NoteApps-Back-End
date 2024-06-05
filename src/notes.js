@@ -1,11 +1,3 @@
-const notes = [
-  {
-    id: '',
-    title: '',
-    createdAt: '',
-    updateAt: '',
-    body: '',
-  },
-];
+const notes = [];
 
 module.exports = notes;
